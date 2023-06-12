@@ -39,6 +39,6 @@
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute the dummy posts as needed.
 
 ### Credits
-The dummy posts in this repository were created by [Mahidul Isalm] (https://www.codermahidul.com) If you have any questions or feedback, please open an issue in this repository.
+The dummy posts in this repository were created by [Mahidul Isalm](https://www.codermahidul.com) If you have any questions or feedback, please open an issue in this repository.
 
 Happy coding!
