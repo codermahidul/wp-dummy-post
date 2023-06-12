@@ -29,3 +29,16 @@
 9. Depending on the size of your file and the amount of data being imported, the process may take some time. WordPress will display a progress indicator or a success message when the import is complete.
 10. After the import is finished, you can review the imported content in your WordPress dashboard and make any necessary adjustments or modifications.
 
+### Customization
+
+<p> Feel free to customize the dummy posts to meet your specific needs. You can modify the HTML content, change the featured images, and update the metadata values in the post-x-metadata.json files. This flexibility allows you to create a variety of scenarios and test different aspects of your WordPress theme or plugin. </p>
+
+
+### License
+
+This repository is licensed under the MIT License. Feel free to use, modify, and distribute the dummy posts as needed.
+
+### Credits
+The dummy posts in this repository were created by [Mahidul Isalm] (https://www.codermahidul.com) If you have any questions or feedback, please open an issue in this repository.
+
+Happy coding!
